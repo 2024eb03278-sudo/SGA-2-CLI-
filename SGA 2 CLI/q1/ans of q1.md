@@ -1,1 +1,2 @@
-he shell script in the analyze.sh file has been written and executed in my Kali Linux VM to check if it was working. You can find a detailed explanation for every command executed to check whether each of the shell script blocks is working.
+The shell script in the analyze.sh file has been written and executed in my Kali Linux VM to check if it was working. You can find a detailed explanation for every command executed to check whether each of the shell script blocks is working.
+
